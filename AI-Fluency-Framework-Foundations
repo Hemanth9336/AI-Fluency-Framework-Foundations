@@ -1,0 +1,52 @@
+--> AI Fluency means interacting with AI systems in ways that are effective, efficient, ethical and safe.
+--> Three ways to interact with AI :
+    1. Automation - AI does work for you following explicit instructions.
+    2. Augmentation - You and the AI collaboratively work together.
+    3. Agency - AI works independently on your behalf.
+--> The 4D Framework (Four core competencies for AI Fluency)
+    1. Delegation (To decide when and how to use AI)
+       - Understand your goal and the problem that you are trying to solve.
+       - Know what AI systems can and can't do well.
+       - Decide how to divide the work between you and the AI.
+    2. Description (To communicate clearly with AI)
+       - What you want the final output to be.
+       - How you want the AI to approach the task.
+       - How you want the AI to behave.
+    3. Discernment (To evaluate AI outputs)
+       - Is the output useful and correct?
+       - Is the AI taking the right approach?
+       - Is the AI behaving as desired?
+    4. Diligence (To use AI responsibly)
+       - Ensuring accuracy and taking responsibility.
+       - Honesty and transparency.
+       - Ethical use and critical awareness.
+--> What is generative AI? (Deep Dive)
+    Generative AI refers to artificial intelligence systems that can create new content rather than just analyzing existing data.
+    Three pillars that made it possible:
+    1. Algorithms (Neural networks, Transformers)
+    2. Data (Articles and websites, Code and multimodal content)
+    3. Computation (GPUs, TPUs, etc., Computing clusters)
+--> What makes generative AI powerful
+    1. Processes vast information during training and learns complex patterns.
+    2. Adapts to new tasks through in-context learning.
+    3. Demonstrates emergent capabilities from scale.
+--> Delegation:
+    1. The Delegation competence is critical to effective and efficient AI use.
+    2. You need to use your own expertise to decide what is worth doing and to leverage the unique strengths of both human and artificial intelligence.
+--> Description:
+    1. You need to do more than just write prompts.
+    2. By nurturing your capacity for product, process, and performance description, you can transform AI tools from generic assistants into finely tuned thinking partners.
+--> Effective prompting techniques (Deep Dive)
+    Foundational prompting tips (Provide context, Offer examples, Specify output constraints, Break down complex tasks, Give the AI space to think, Define roles)
+--> Discernment:
+    1. Discernment evaluates how well your needs were met.
+    2. A continuous loop of instruction and evaluation drives quality.
+    3. Discernment ensures that our AI collaboration remains guided by human judgment.
+--> Diligence:
+    1. AI use should be not only effective and efficient, but also ethical and safe.
+    2. Diligence reminds us that our interaction with AI comes with responsibility.
+    3. We all want AI that is fair, and safe, and of benefit to our society.
+    4. Our own behaviors play a key role in making this happen.
+
+    
+
